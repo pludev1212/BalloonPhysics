@@ -1,6 +1,4 @@
--- pludev1212 on github
--- oldwatchnewtime (pluto) on discord
--- yourplut_o on roblox
+-- discord: oldwatchnewtime (pluto) | roblox: yourplut_o | github: pludev1212
 -- balloon service, the core of balloon range (a small physics sandbox based on my game shoot a balloon)
 -- Bootstrap requires every module in Server/Services and calls Start on it. tuning comes from
 -- Shared/Config/RangeConfig, points go through ScoreService, and every part cloned here is a template in
